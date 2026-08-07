@@ -12,9 +12,9 @@
 </p>
 
 <p align="center">
-  <a href="https://linkedin.com/in/YOURUSERNAME"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+  <a href="https://linkedin.com/in/raza-ali-7bba2835a"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
   <a href="https://huggingface.co/razaali1607"><img src="https://img.shields.io/badge/Hugging%20Face-FFD21E?style=flat-square&logo=huggingface&logoColor=black" alt="Hugging Face"></a>
-  <a href="mailto:you@example.com"><img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Email"></a>
+  <a href="mailto:razaali2461357@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Email"></a>
   <img src="https://img.shields.io/badge/Lahore,%20PK-open%20to%20remote-2ea44f?style=flat-square" alt="Location">
 </p>
 
@@ -55,7 +55,7 @@ Also the finding I like most: constrained decoding buys validity, **not** accura
 
 <sub>PyTorch · PEFT/LoRA · Qwen3-1.7B · Batch API</sub>
 
-[Code](https://github.com/YOURUSERNAME/schema-extract-lab) ·
+[Code](https://github.com/RazaAli1010/schema-extract-lab) ·
 [Model](https://huggingface.co/razaali1607/qwen3-1.7b-jobpost-lora)
 
 </td>
@@ -72,7 +72,7 @@ a detection rate without its cost is marketing.
 
 <sub>Python · FastMCP · Presidio · SQLite</sub>
 
-[Code](https://github.com/YOURUSERNAME/mcpgw) ·
+[Code](https://github.com/RazaAli1010/mcpgw) ·
 [Demo](https://www.loom.com/share/89a4733055464269b578d16b834a3b07)
 
 </td>
@@ -91,7 +91,7 @@ Query rewrite regressed, so it ships off.
 
 <sub>FastAPI · LangChain · Pinecone · Redis · React</sub>
 
-[Code](https://github.com/YOURUSERNAME/campus-rag)
+[Code](https://github.com/RazaAli1010/campus-rag)
 
 </td>
 <td width="50%" valign="top">
@@ -107,7 +107,7 @@ finished report. Fixing the grading rubric cut revision loops `39 → 15`.
 
 <sub>LangGraph · FastAPI · PostgreSQL · React 19</sub>
 
-[Code](https://github.com/YOURUSERNAME/atlas)
+[Code](https://github.com/RazaAli1010/atlas)
 
 </td>
 </tr>
@@ -126,7 +126,7 @@ request.
 
 <sub>FastAPI · Next.js 16 · PostgreSQL · ChromaDB · asyncio · Docker</sub>
 
-[Code](https://github.com/YOURUSERNAME/startbot) ·
+[Code](https://github.com/RazaAli1010/startbot) ·
 [Demo](https://www.loom.com/share/3cee6c72811247ff971438fe96effe16)
 
 </details>
@@ -137,26 +137,25 @@ request.
 
 | | |
 |---|---|
-| **Languages** | Python (async) · TypeScript · SQL · Bash |
+| **Languages** | Python · TypeScript · JavaScript |
 | **LLM & agents** | OpenAI API (structured outputs, tool calling, Batch) · LangChain · LangGraph · Model Context Protocol |
 | **RAG** | Hybrid search (BM25 + RRF) · cross-encoder reranking · chunking strategies · semantic caching · Pinecone · ChromaDB |
-| **Evals & observability** | RAGAS · hit@k / MRR / macro-F1 harnesses · ablation-gated releases · Langfuse · structured logging · cost & latency profiling |
-| **Fine-tuning** | PyTorch · Transformers · PEFT/LoRA · Hugging Face · constrained decoding |
+| **Evals & observability** | RAGAS · hit@k / MRR / macro-F1 harnesses · Langfuse · structured logging · cost & latency profiling |
+| **Fine-tuning** | PyTorch · Transformers · PEFT/LoRA · Hugging Face · |
 | **Backend** | FastAPI · PostgreSQL · SQLAlchemy · Alembic · Redis · SSE streaming · JWT/OAuth2 |
-| **Infra** | Docker · GitHub Actions · pytest · Locust · uv |
+| **Infra** | Docker · GitHub Actions · pytest · uv |
 
 ---
 
 ### Currently
 
 Deepening cloud deployment (AWS), and looking for **AI / LLM engineering roles — remote or
-relocation**. If you're hiring and want to poke holes in any number above, the artifacts are all
-committed. That's the point of them.
+relocation**. 
 
 <p align="center">
   <sub>
-    <a href="https://linkedin.com/in/YOURUSERNAME">LinkedIn</a> ·
+    <a href="https://linkedin.com/in/raza-ali-7bba2835a">LinkedIn</a> ·
     <a href="https://huggingface.co/razaali1607">Hugging Face</a> ·
-    <a href="mailto:you@example.com">Email</a>
+    <a href="mailto:razaali2461357@gmail.com">Email</a>
   </sub>
 </p>
