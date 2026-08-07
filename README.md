@@ -26,10 +26,6 @@ BS Data Science graduate (2026). I work on the part of AI engineering that isn't
 quality, evaluation harnesses, cost and latency budgets, and knowing when a feature you built should
 ship turned **off**.
 
-Two of the features in the repos below are disabled by default because the numbers said so. Every
-benchmark in every README maps to a committed artifact — one project fails its own build if the
-write-up quotes a number the data doesn't contain.
-
 ```
 retrieval quality  ·  eval harness design  ·  agent orchestration
 fine-tuning        ·  cost & latency        ·  guardrails
@@ -67,7 +63,7 @@ Also the finding I like most: constrained decoding buys validity, **not** accura
 A security proxy for the Model Context Protocol. Catches instructions hidden in tool descriptions
 (OWASP MCP03:2025) before the model ever sees them.
 
-`17/17 recall` on a frozen test split — and the false-positive cost is published next to it, because
+`17/17 recall` on a frozen test split and the false-positive cost is published next to it, because
 a detection rate without its cost is marketing.
 
 <sub>Python · FastMCP · Presidio · SQLite</sub>
@@ -102,7 +98,7 @@ Query rewrite regressed, so it ships off.
 Plans a report, pauses for your approval, researches sections in parallel, grades and revises its own
 drafts.
 
-The pause is persisted, not in-memory — kill the process mid-approval and the run resumes to a
+The pause is persisted, not in-memory kill the process mid-approval and the run resumes to a
 finished report. Fixing the grading rubric cut revision loops `39 → 15`.
 
 <sub>LangGraph · FastAPI · PostgreSQL · React 19</sub>
