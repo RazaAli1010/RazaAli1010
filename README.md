@@ -7,7 +7,7 @@
 <h1 align="center">Raza Ali</h1>
 
 <p align="center">
- <b>AI Engineer</b> <br> I build LLM systems and measure them.<br>
+ <h2><b>AI Engineer</b></h2> <br> I build LLM systems and measure them.<br>
   RAG pipelines, agent orchestration, fine-tuning, and the eval harnesses that prove any of it works.
 </p>
 
