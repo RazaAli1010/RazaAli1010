@@ -12,7 +12,7 @@
 </p>
 
 <p align="center">
-  <a href="https://linkedin.com/in/raza-ali-7bba2835a"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+  <a href="https://linkedin.com/in/razaali1607"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
   <a href="https://huggingface.co/razaali1607"><img src="https://img.shields.io/badge/Hugging%20Face-FFD21E?style=flat-square&logo=huggingface&logoColor=black" alt="Hugging Face"></a>
   <a href="mailto:razaali2461357@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Email"></a>
   <img src="https://img.shields.io/badge/Lahore,%20PK-open%20to%20remote-2ea44f?style=flat-square" alt="Location">
@@ -45,7 +45,7 @@ fine-tuning        ·  cost & latency        ·  guardrails
 A 1.7B open model fine-tuned to extract a strict 16-field schema, benchmarked against the
 `gpt-4o-mini` teacher that labelled its training data.
 
-`0.884 macro-F1` vs teacher's `0.925` — at **29% of the cost**.
+`0.884 macro-F1` vs teacher's `0.925` at **29% of the cost**.
 
 Also the finding I like most: constrained decoding buys validity, **not** accuracy.
 
@@ -68,7 +68,7 @@ a detection rate without its cost is marketing.
 
 <sub>Python · FastMCP · Presidio · SQLite</sub>
 
-[Code](https://github.com/RazaAli1010/mcpgw) ·
+[Code](https://github.com/RazaAli1010/mcp-gaurdrail-gateway) ·
 [Demo](https://www.loom.com/share/89a4733055464269b578d16b834a3b07)
 
 </td>
@@ -87,7 +87,7 @@ Query rewrite regressed, so it ships off.
 
 <sub>FastAPI · LangChain · Pinecone · Redis · React</sub>
 
-[Code](https://github.com/RazaAli1010/campus-rag)
+[Code](https://github.com/RazaAli1010/production-rag-system)
 
 </td>
 <td width="50%" valign="top">
@@ -103,7 +103,7 @@ finished report. Fixing the grading rubric cut revision loops `39 → 15`.
 
 <sub>LangGraph · FastAPI · PostgreSQL · React 19</sub>
 
-[Code](https://github.com/RazaAli1010/atlas)
+[Code](https://github.com/RazaAli1010/atlas-research-agent)
 
 </td>
 </tr>
@@ -150,7 +150,7 @@ relocation**.
 
 <p align="center">
   <sub>
-    <a href="https://linkedin.com/in/raza-ali-7bba2835a">LinkedIn</a> ·
+    <a href="https://linkedin.com/in/razaali1607">LinkedIn</a> ·
     <a href="https://huggingface.co/razaali1607">Hugging Face</a> ·
     <a href="mailto:razaali2461357@gmail.com">Email</a>
   </sub>
