@@ -7,7 +7,9 @@
 <h1 align="center">Raza Ali</h1>
 
 <p align="center">
-  <b>AI Engineer</b> I build LLM systems and measure them.<br>
+ <b>AI Engineer</b> 
+  
+  I build LLM systems and measure them.<br>
   RAG pipelines, agent orchestration, fine-tuning, and the eval harnesses that prove any of it works.
 </p>
 
@@ -68,7 +70,7 @@ a detection rate without its cost is marketing.
 
 <sub>Python · FastMCP · Presidio · SQLite</sub>
 
-[Code](https://github.com/RazaAli1010/mc-guardrail-gateway) ·
+[Code](https://github.com/RazaAli1010/mcp-guardrail-gateway) ·
 [Demo](https://www.loom.com/share/89a4733055464269b578d16b834a3b07)
 
 </td>
