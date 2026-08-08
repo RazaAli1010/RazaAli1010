@@ -22,7 +22,7 @@
 
 ### About
 
-BS Data Science graduate (2026). I work on the part of AI engineering that isn't the demo: retrieval
+BS Data Science graduate. I work on the part of AI engineering that isn't the demo: retrieval
 quality, evaluation harnesses, cost and latency budgets, and knowing when a feature you built should
 ship turned **off**.
 
@@ -68,7 +68,7 @@ a detection rate without its cost is marketing.
 
 <sub>Python · FastMCP · Presidio · SQLite</sub>
 
-[Code](https://github.com/RazaAli1010/mcp-gaurdrail-gateway) ·
+[Code](https://github.com/RazaAli1010/mc-guardrail-gateway) ·
 [Demo](https://www.loom.com/share/89a4733055464269b578d16b834a3b07)
 
 </td>
@@ -103,7 +103,7 @@ finished report. Fixing the grading rubric cut revision loops `39 → 15`.
 
 <sub>LangGraph · FastAPI · PostgreSQL · React 19</sub>
 
-[Code](https://github.com/RazaAli1010/atlas-research-agent)
+[Code](https://github.com/RazaAli1010/atlas-research-agents)
 
 </td>
 </tr>
@@ -122,7 +122,7 @@ request.
 
 <sub>FastAPI · Next.js 16 · PostgreSQL · ChromaDB · asyncio · Docker</sub>
 
-[Code](https://github.com/RazaAli1010/startbot) ·
+[Code](https://github.com/RazaAli1010/fyp-startup-automation) ·
 [Demo](https://www.loom.com/share/3cee6c72811247ff971438fe96effe16)
 
 </details>
